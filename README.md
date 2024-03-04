@@ -1,2 +1,2 @@
 # akash
-this is my first respository
+this is my first  get respository
